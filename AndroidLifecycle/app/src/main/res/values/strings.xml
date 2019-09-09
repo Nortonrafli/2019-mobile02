@@ -1,3 +1,5 @@
 <resources>
-	<string name="app_name">Android Lifecycle</string>
+    <string name="app_name">Android Lifecycle</string>
+    <string name="hint_name">inputkan</string>
+    <string name="submit">submitkan</string>
 </resources>
